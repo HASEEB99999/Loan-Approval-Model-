@@ -1,1 +1,1 @@
-# Loan-Approval-Model-
+# Loan Approval Model
